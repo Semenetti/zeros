@@ -1,6 +1,6 @@
 module.exports = function zeros(expression) {
     
-  let result = "",
+  let result = "", arr = [],
   counter = { 
       'even': 0, 
       'odd': 0,
